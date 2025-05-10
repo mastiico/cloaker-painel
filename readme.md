@@ -8,7 +8,6 @@ Este documento explica como configurar e rodar o **Cloaker Linux** em sua VPS, c
 
 - VPS com Linux x64 (Ubuntu/Debian/CentOS)
 - Acesso root
-- NGINX instalado
 - Porta **3005** liberada no firewall
 - Node.js **NÃO** é necessário (binário standalone)
 
